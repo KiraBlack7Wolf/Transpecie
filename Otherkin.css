@@ -1,0 +1,45 @@
+body {
+  background-image: url(Imagen2/elfa2.jpg);
+}
+
+h1 {
+  text-shadow: -1px 0 rgb(228, 0, 0), 0 1px rgb(255, 0, 0),
+  1px 0 rgb(255, 0, 0), 0 -1px rgb(255, 0, 0);
+  text-align: center;       
+}
+
+.fant{
+  background-color: rgb(183, 0, 255);    
+}
+
+.i {
+
+  line-height: 100%;
+  font: oblique bold 120% cursive;
+  text-shadow: -1px 0 rgb(225, 0, 255), 0 1px rgb(225, 0, 255),
+  1px 0 rgb(225, 0, 255), 0 -1px rgb(225, 0, 255);
+    
+}
+
+p{
+  color: #000000;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+article{
+  background-color: rgba(183, 0, 255, 0.452); 
+  padding: 3px 10px;
+  border: rgb(183, 0, 255) 10px double;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+
+.f{
+
+  font-family: "ARIAL", serif;
+  text-align: center; 
+  font-size: large;
+  font : oblique bold 120% cursive; 
+
+}
